@@ -5,7 +5,7 @@ const words = {
     'Plural Noun 1': 'birds',
     'Plural Noun 2': 'winners',
     'Plural Noun 3': 'politics'
-  }
+  } 
 function addfirst() {
     document.getElementById('first-container').innerHTML = `
   <form>
